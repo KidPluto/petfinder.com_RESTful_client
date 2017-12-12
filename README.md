@@ -2,7 +2,7 @@
 
 Petfinder.com 
 * [API docs](https://www.petfinder.com/developers/api-docs).
-* [Developer api key]([https://www.petfinder.com/developers/api-key).
+* [Developer api key](https://www.petfinder.com/developers/api-key).
 * Example of calling api to retrieve random pet id.
   * Using browser ````http://api.petfinder.com/pet.getRandom?key=<api-key>````
   * Using command line ````curl http://api.petfinder.com/pet.getRandom?key=<api-key>````
